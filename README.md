@@ -25,7 +25,7 @@ SmartSolve is an AI-powered web application designed to automatically solve math
 4. Start the frontend 
   ```bash
    npm start
-For backend refer to the following repository [https://github.com/larrikin-coder/SmartSolve-Backend]
+5. For backend refer to the following repository [https://github.com/larrikin-coder/SmartSolve-Backend]
 
 
 
