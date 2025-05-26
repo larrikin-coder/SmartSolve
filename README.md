@@ -1,5 +1,5 @@
 # SmartSolve
-<<<<<<< HEAD
+
 
 SmartSolve is an AI-powered web application designed to automatically solve mathematical problems from images. By combining advanced OCR technology with powerful AI models, SmartSolve provides accurate, step-by-step solutions to a wide range of math problems — making it an ideal tool for students, educators, and math enthusiasts.
 
@@ -54,4 +54,3 @@ SmartSolve is an AI-powered web application designed to automatically solve math
    npm start
 For backend refer to the following repository [https://github.com/larrikin-coder/SmartSolve-Backend]
 
->>>>>>> 233ad566eda7c1b24383c7ce7695b81a5fec2cb7
