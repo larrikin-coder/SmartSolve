@@ -23,5 +23,5 @@ SmartSolve is an AI-powered web application designed to automatically solve math
    npm i
 4. ```bash
    npm start
-For backend refer to the following repository [https://github.com/naptha/tesseract.js]
+For backend refer to the following repository [https://github.com/larrikin-coder/SmartSolve-Backend]
 
